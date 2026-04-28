@@ -4,7 +4,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PySide6](https://img.shields.io/badge/PySide6-6.x-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 一款基于 PySide6 开发的专业证件照排版工具，支持多种标准证件照尺寸和自定义尺寸，可自动生成照片排版布局。
 
