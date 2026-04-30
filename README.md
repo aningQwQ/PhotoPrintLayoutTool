@@ -4,6 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PySide6](https://img.shields.io/badge/PySide6-6.x-green.svg)
+![Version](https://img.shields.io/badge/Version-v7.7.2-red.svg)
 
 一款基于 PySide6 开发的专业证件照排版工具，支持多种标准证件照尺寸和自定义尺寸，可自动生成照片排版布局。
 
@@ -70,7 +71,7 @@ pip install PySide6
 3. **运行程序**
 
 ```bash
-python 照片排版工具 6.1.py
+python PhotoPrintLayoutTool/7.7/照片排版工具 7.7.2.py
 ```
 
 ---
@@ -128,15 +129,17 @@ python 照片排版工具 6.1.py
 
 ```
 PhotoPrintLayoutTool/
-├── 照片排版工具 6.1.py      # 主程序文件
-├── 照片排版工具*.py         # 历史版本文件
-├── 照片排版工具 7/          # 最新版本目录
-├── photo_layout_config.json # 配置文件（运行时生成）
-├── README.md                # 项目说明文档
-├── LICENSE                  # 开源许可证
+├── PhotoPrintLayoutTool/         # 主程序目录
+│   ├── 7.7/                      # 最新版本目录 (v7.7.2)
+│   │   └── 照片排版工具 7.7.2.py  # 最新主程序文件
+│   ├── 照片排版工具 7/            # v7.x 版本目录
+│   ├── 照片排版工具*.py          # 历史版本文件
+│   └── photo_layout_config.json  # 配置文件（运行时生成）
+├── README.md                     # 项目说明文档
+├── LICENSE                       # 开源许可证
 └── 文档/
-    ├── 主页设计.png         # 界面截图
-    └── 安装与使用文档.docx   # 详细使用文档
+    ├── 主页设计.png              # 界面截图
+    └── 安装与使用文档.docx        # 详细使用文档
 ```
 
 ---
