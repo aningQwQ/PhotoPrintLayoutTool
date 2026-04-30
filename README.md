@@ -136,7 +136,6 @@ PhotoPrintLayoutTool/
 │   ├── 照片排版工具*.py          # 历史版本文件
 │   └── photo_layout_config.json  # 配置文件（运行时生成）
 ├── README.md                     # 项目说明文档
-├── LICENSE                       # 开源许可证
 └── 文档/
     ├── 主页设计.png              # 界面截图
     └── 安装与使用文档.docx        # 详细使用文档
@@ -183,7 +182,7 @@ PhotoPrintLayoutTool/
 
 ## 📄 许可证
 
-本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
+本项目暂未添加开源许可证文件。如需使用，请联系项目维护者获取授权。
 
 ---
 
