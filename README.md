@@ -131,10 +131,10 @@ python PhotoPrintLayoutTool/7.7/照片排版工具 7.7.2.py
 PhotoPrintLayoutTool/
 ├── PhotoPrintLayoutTool/         # 主程序目录
 │   ├── 7.7/                      # 最新版本目录 (v7.7.2)
-│   │   └── 照片排版工具 7.7.2.py  # 最新主程序文件
+│   │   ├── 照片排版工具 7.7.2.py  # 最新主程序文件
+│   │   └── photo_layout_config.json  # 配置文件（运行时生成）
 │   ├── 照片排版工具 7/            # v7.x 版本目录
-│   ├── 照片排版工具*.py          # 历史版本文件
-│   └── photo_layout_config.json  # 配置文件（运行时生成）
+│   └── 照片排版工具*.py          # 历史版本文件
 ├── README.md                     # 项目说明文档
 └── 文档/
     ├── 主页设计.png              # 界面截图
